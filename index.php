@@ -1,11 +1,11 @@
 <?php 
-define('HOST', 'localhost');
+/*ifdefine('HOST', 'localhost');
 define('USER', 'root');
 define('PASS', '');
 define('DBNAME', 'cadastro');
 
 $connect = new PDO('mysql:host=' . HOST . ';dbname=' . DBNAME . ';', USER, PASS);
-if($_POST) {
+($_POST) {
     $gestor = utf8_encode($_POST['gestor']);
     $setor = utf8_encode($_POST['setor']);
     $espec = $_POST['espec'];
@@ -30,7 +30,7 @@ if($_POST) {
     header("refresh: 2 ");
 }
 
-
+*/
 ?>
 
 <style type="text/css">
