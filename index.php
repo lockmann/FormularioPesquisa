@@ -1,4 +1,7 @@
-<?php 
+<?php   
+
+// Trecho em PHP que insere os dados no banco, basta remover a tag de comentário.
+
 /*ifdefine('HOST', 'localhost');
 define('USER', 'root');
 define('PASS', '');

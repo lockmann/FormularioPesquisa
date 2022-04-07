@@ -1,5 +1,8 @@
 <?php 
-$localhost = "localhost";
+
+// Trecho em PHP que lista as informações inseridas, basta remover a tag de comentários.
+
+/*$localhost = "localhost";
 $username = "root"; 
 $password = ""; 
 $dbname = "cadastro"; 
@@ -13,7 +16,7 @@ $sql1 = "SELECT * FROM members";
 $sql_count =  mysqli_query($connect, $sql1);
 
 $total = mysqli_num_rows($sql_count);
-
+*/
 ?>
 <!DOCTYPE html>
 <html>
